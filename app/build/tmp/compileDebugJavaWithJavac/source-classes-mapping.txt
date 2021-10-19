@@ -1,0 +1,2 @@
+com/example/helloworldapp/BuildConfig.java
+ com.example.helloworldapp.BuildConfig

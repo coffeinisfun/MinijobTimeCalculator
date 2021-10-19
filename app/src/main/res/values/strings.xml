@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HelloWorldApp</string>
+    <string name="maxHours">Max: %1$f </string>
+    <string name="restHours">Rest: %1$f </string>
+    <string name="addDate">Add </string>
+    <string name="listHeader">Work Time Overview</string>
+    <string name="inputPrompt">Enter new time</string>
+    <string name="deleteDate">Delete</string>
+    <string name="deleteAll">Clear</string>
+</resources>
